@@ -37,14 +37,15 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
+global.owner = ['94763204765','']
+global.premium = ['94763204765','94763204765']
+global.botname = 'ZIM BOT INC Created by k-black star-1'
+global.ownername = 'Kavindu-star-1'
+global.group1 = 'https://chat.whatsapp.com/I3hj693s5k31zdNGKsWSEK'
+global.group2 = 'https://chat.whatsapp.com/I3hj693s5k31zdNGKsWSEK'
 global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.ytchannel = 'https://www.youtube.com/@k-Black-star-1"
+
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
